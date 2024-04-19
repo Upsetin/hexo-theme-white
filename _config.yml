@@ -54,12 +54,12 @@ site_description: "White's Graden"
 menu:
   HOME: /
   BLOG: /archives
-  About: /2001/06/18/about-me/
+  About: /2001/06/18/about/
 
 
 ## 本地搜索
 search:
-  open: true # 是否开启
+  open: false # 是否开启
   page: /search # 页面路径（通常命名为search）
 
 
